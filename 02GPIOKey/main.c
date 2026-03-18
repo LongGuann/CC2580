@@ -1,7 +1,7 @@
 #include <ioCC2530.h>
 
-#define YLED   P1_0 
-#define BLED   P1_1	  
+#define YLED   P1_1 
+#define BLED   P1_0	  
 
 #define KEY1   P1_2
 
